@@ -2,7 +2,7 @@
   "name": "conditionalrendering",
   "version": "1.0.0",
   "description": "conditional redering with && from www.react.express.",
-  "main": "with&&.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --env.dev",
